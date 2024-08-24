@@ -7,6 +7,9 @@ Team Member
 - Sarang Walke
 - Ansh Agrawal
 - Rohit Bisen
+- Akarsh Balpande
+
+  
 
 
 ## Mentor Information
