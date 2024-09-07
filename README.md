@@ -12,7 +12,6 @@ Team Member
 
   
 
-
 ## Mentor Information
 - Ganesh Sir
 
@@ -27,12 +26,11 @@ This project focuses on developing an advanced Object Detection System using the
 
 
 ## Report 
-https://docs.google.com/document/d/18sT74C21QGmimxOs8la9O2mxzO4ZkuQRGDsTgE7V5lk/edit?usp=sharing
+[https://docs.google.com/document/d/18sT74C21QGmimxOs8la9O2mxzO4ZkuQRGDsTgE7V5lk/edit?usp=sharing](https://docs.google.com/document/d/1qSfQNOcex4d0Qq4KaZDCe0RV9J4GZfmKqTPvdD54iDY/edit?usp=sharing)
 
 ## Dataset
-COCO 2017 Dataset
-Train Images: 118,000 images
-Validation Images: 5,000 images
+COCO mini 2017 Dataset
+Train Images:  25k images
 Annotations: Detailed annotations for training and validation images
 
 git clone https://github.com/Vaibhav-S74/Team_404_Object_Detection.git
