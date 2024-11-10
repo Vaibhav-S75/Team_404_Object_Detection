@@ -33,4 +33,10 @@ COCO mini 2017 Dataset
 Train Images:  25k images
 Annotations: Detailed annotations for training and validation images
 
+## Mini Reserch paper 
+LINK to letex overleaf edditor: https://www.overleaf.com/5878855825whndfwgdjkpj#d82a42
+
+## Presentation
+LINK to ppt: https://www.canva.com/design/DAGWC5Q75f8/KkCqko4mV6M74TEgbbjzgw/edit?utm_content=DAGWC5Q75f8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 git clone https://github.com/Vaibhav-S74/Team_404_Object_Detection.git
