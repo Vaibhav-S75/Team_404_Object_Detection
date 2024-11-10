@@ -25,8 +25,11 @@ This project focuses on developing an advanced Object Detection System using the
 - **Performance Evaluation:** Assess the performance of the model using metrics such as Precision, Recall, and mAP (mean Average Precision).
 
 
-## Report 
+## Literary Survey
 [https://docs.google.com/document/d/18sT74C21QGmimxOs8la9O2mxzO4ZkuQRGDsTgE7V5lk/edit?usp=sharing](https://docs.google.com/document/d/1qSfQNOcex4d0Qq4KaZDCe0RV9J4GZfmKqTPvdD54iDY/edit?usp=sharing)
+
+## Report 
+https://docs.google.com/document/d/1keh3uLOB0jADPfp2-5Y5SagVbvc2kx-4-UIhvOKYnj8/edit?usp=sharing
 
 ## Dataset
 COCO mini 2017 Dataset
