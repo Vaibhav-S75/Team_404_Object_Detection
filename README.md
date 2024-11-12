@@ -31,6 +31,9 @@ This project focuses on developing an advanced Object Detection System using the
 ## Weekly Report 
 https://docs.google.com/document/d/1keh3uLOB0jADPfp2-5Y5SagVbvc2kx-4-UIhvOKYnj8/edit?usp=sharing
 
+## FInal Report
+https://docs.google.com/document/d/1iSbvU8YxtRZb_RLe7QZG1hnh6lT88TiW/edit?usp=sharing&ouid=109650477701843816404&rtpof=true&sd=true
+
 ## Dataset
 COCO mini 2017 Dataset
 Train Images:  25k images
