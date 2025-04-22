@@ -9,10 +9,8 @@ Team Member
 - Ansh Agrawal
 - Rohit Bisen
 - Aakarsh Balpande
+- Japjot Singh Kashyap
  
-
-  
-
 ## Mentor Information
 - Ganesh Sir
 
